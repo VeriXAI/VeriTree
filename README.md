@@ -11,7 +11,11 @@ To cite the work, please use this citation:
                   Kim Guldstrand Larsen},
   title        = {Safety verification of decision-tree policies in continuous time},
   booktitle    = {{NeurIPS}},
-  year         = {2023}
+  volume       = {36},
+  pages        = {14750--14769},
+  publisher    = {Curran Associates, Inc.},
+  year         = {2023},
+  url          = {https://proceedings.neurips.cc//paper_files/paper/2023/hash/2f89a23a19d1617e7fb16d4f7a049ce2-Abstract-Conference.html}
 }
 ```
 
